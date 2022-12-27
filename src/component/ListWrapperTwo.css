@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  
+  .List {
+    border: 1px solid #d9dddd;
+  }
+  
+  .word-row {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 5px;
+  }
+  
+  .ListItemEven {
+    background-color: #f8f8f0;
+  }
+
+  .active {
+    background-color: #9da7ffd8;
+  }

@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 import './Lista.css';
 
-const Row = ({ data, index, style, ref }) => {
+const Row = ({ data, index, style }) => {
 
     //console.log(data[index].word);
     // console.log(ref);
